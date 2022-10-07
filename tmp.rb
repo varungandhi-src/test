@@ -86,6 +86,6 @@ end
 
 class E < D
   def get_f_1
-    @f
+    @f = 3
   end
 end
